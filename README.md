@@ -19,6 +19,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alperkaplan30"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperkaplan30" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperkaplan30&show_icons=true&locale=en&layout=compact" alt="alperkaplan30" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperkaplan30&show_icons=true&locale=en&layout=compact" alt="alperkaplan30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperkaplan30&show_icons=true&theme=dark&title_color=800a7c&locale=en" alt="alperkaplan30" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alperkaplan30&show_icons=true&theme=dark&title_color=800a7c&locale=en" alt="alperkaplan30" /></p>
