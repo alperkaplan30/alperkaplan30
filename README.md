@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">Hello, I'm a computer engineering student interested in full-stack development and game development.</h3>
+<h3 align="center">Hello, I am a recent Computer Engineering graduate with a strong interest in front-end and back-end development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkaplan30&label=Profile%20views&color=7a0576&style=flat" alt="alperkaplan30" /> </p>
 
