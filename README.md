@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/alperkaplan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="alperkaplan30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alper-kaplan-223098287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alperkaplan30" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alperkaplan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alperkaplan30" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26886432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26886432" height="30" width="40" /></a>
 <a href="https://instagram.com/alperkaplan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperkaplan30" height="30" width="40" /></a>
 </p>
