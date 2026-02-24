@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkaplan30&label=Profile%20views&color=7a0576&style=flat" alt="alperkaplan30" /> </p>
 
-- 📫 How to reach me **aalperkaplan30@gmail.com**
+- 📫 How to reach me **aalperkaplan30@gmail.com - alperkaplan.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
